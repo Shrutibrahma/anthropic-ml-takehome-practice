@@ -1,4 +1,28 @@
-﻿# anthropic takehome practice
+﻿# Anthropic ML Takehome Practice
+
+## Overview
+
+Machine-learning takehome practice project using PyTorch and Transformers, with source code, requirements, and writeup template for model experimentation.
+
+## Tech Stack
+
+Python, PyTorch, Transformers, datasets, NumPy, Pandas, Matplotlib, scikit-learn
+
+## Repository Contents
+
+This repository contains the source code and related files for the project. Existing project documentation, submissions, scripts, source folders, data/config files, and supporting assets are preserved below.
+
+## Notes
+
+- Canonical public repository: https://github.com/Shrutibrahma/anthropic-ml-takehome-practice
+- Original local path: `C:\Users\shrut\Downloads\Shruti_Exam\anthropic_takehome_practice`
+- README rewritten during portfolio cleanup for clearer presentation.
+
+---
+
+## Original README
+
+# anthropic takehome practice
 
 ## Overview
 
@@ -165,5 +189,6 @@ Reasoning transparency:
 - Do not overstate small or noisy differences.
 - Report seeds, error bars, or at least clear uncertainty.
 - Name confounds plainly.
+
 
 
