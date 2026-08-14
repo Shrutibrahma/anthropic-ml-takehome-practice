@@ -15,7 +15,7 @@ This repository contains the source code and related files for the project. Exis
 ## Notes
 
 - Canonical public repository: https://github.com/Shrutibrahma/anthropic-ml-takehome-practice
-- Original local path: `C:\Users\shrut\Downloads\Shruti_Exam\anthropic_takehome_practice`
+
 - README rewritten during portfolio cleanup for clearer presentation.
 
 ---
